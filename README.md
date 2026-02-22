@@ -33,3 +33,4 @@ docker-compose up --build
     <img src="assets/captcha.jpg?v=2" alt="Captcha interface"/>
   </p>
   <p align="left"><i> An example of a captcha taken from the PixelDays interface </i></p>
+ 
